@@ -6,9 +6,8 @@
 
 body {
     margin: 0;
-    /* Remove qualquer margem padrão do body */
     padding-top: 60px;
-    /* Define um padding no topo do body para evitar que o conteúdo vá para cima */
+    background-color:rgb(147, 155, 255) ; 
 }
 
 
